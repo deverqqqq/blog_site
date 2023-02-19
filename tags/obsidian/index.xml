@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian on 地球觀察日記</title>
+    <link>https://blog.deverqqqq.dev/tags/obsidian/</link>
+    <description>Recent content in Obsidian on 地球觀察日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 14 Mar 2021 16:29:02 +0800</lastBuildDate><atom:link href="https://blog.deverqqqq.dev/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian筆記軟體介紹</title>
+      <link>https://blog.deverqqqq.dev/posts/2021/obsidian%E7%AD%86%E8%A8%98%E8%BB%9F%E9%AB%94%E4%BB%8B%E7%B4%B9/</link>
+      <pubDate>Sun, 14 Mar 2021 16:29:02 +0800</pubDate>
+      
+      <guid>https://blog.deverqqqq.dev/posts/2021/obsidian%E7%AD%86%E8%A8%98%E8%BB%9F%E9%AB%94%E4%BB%8B%E7%B4%B9/</guid>
+      <description></description>
+      <content>&lt;p&gt;索引&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%89%8D%E8%A8%80&#34;&gt;前言&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BB%8B%E7%B4%B9&#34;&gt;介紹&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#%E7%89%B9%E8%89%B2&#34;&gt;👉特色&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97&#34;&gt;🧠使用心得&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E6%9C%80%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E6%84%9F%E5%8F%97&#34;&gt;🧐最印象深刻的感受&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#%E5%BB%B6%E4%BC%B8%E9%96%B1%E8%AE%80&#34;&gt;✍延伸閱讀&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;前言&#34;&gt;前言&lt;/h1&gt;
+&lt;p&gt;一直以來都想用數位筆記來幫助自己學習，也希望透過透過建立筆記的方式，建立自己的專屬資料庫，方便日後不管是在工作或是專案上面，可以更快速找到需要的內容。&lt;/p&gt;
+&lt;p&gt;但正因為使用數位工具的關係，導致我自己常常會想要盡量蒐集完整，全部相關的資訊都到裡面，到頭來反倒是為了蒐集資料而做筆記，並沒有真正的消化筆記的內容。&lt;/p&gt;
+&lt;p&gt;這一段時間也苦惱了許久，本來 Blog 的一部分用途，就是希望自己能夠紀錄不管是曾經踩過的坑，或是還在發想中的想法，做一個整理與匯集，不過受限於主題與架構方面，要實際管理上還是遇到了不小的困難，而且反思自己到底要的是甚麼後，發覺Blog的形式也許做不到我心目中知識庫的樣子。&lt;/p&gt;
+&lt;p&gt;也因此，找了許多的工具與想法，目前開始嘗試看看 Obsidian 這套筆記軟體。&lt;/p&gt;
+&lt;h1 id=&#34;介紹&#34;&gt;介紹&lt;/h1&gt;
+&lt;h2 id=&#34;特色&#34;&gt;👉特色&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;透過關鍵字連結，找到各個文章中出現過同樣的概念，建立連結圖，讓我可以知道，原來這些文章之間是有關連性的，看到之後會讓人更進一步想下去，這些關聯是甚麼。&lt;/li&gt;
+&lt;li&gt;將筆記分成多個單一的概念，通過這些概念的連結，讓我們對於這些主題的相關性，可以一目了然。&lt;/li&gt;
+&lt;li&gt;全部透過 Markdown 語法完成，未來不管是要轉移到新的筆記軟體，或是平台，都會比特規的規格靈活性更高。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;使用心得&#34;&gt;🧠使用心得&lt;/h2&gt;
+&lt;p&gt;我覺得這套軟體算是強迫使用者將每一則記事的內容精簡概要，且不希望每一篇的內容太過複雜。也許這就是卡片盒筆記法所強調的概念連結!?&lt;/p&gt;
+&lt;p&gt;PS: 卡片盒筆記法可以參考右方連結，有詳細的說明。&lt;a href=&#34;https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1/zettelkasten%E5%8D%A1%E7%89%87%E7%9B%92%E7%AD%86%E8%A8%98%E6%B3%95-%E5%BB%BA%E7%AB%8B%E7%9F%A5%E8%AD%98%E9%80%A3%E7%B5%90%E7%B6%B2%E8%B7%AF%E4%BE%86%E6%B4%BB%E7%94%A8%E7%AD%86%E8%A8%98-f85a91729521&#34;&gt;這裡&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;例如，我最近正準備開始學習使用 MongoDB，我想要把一些基本的概念先記下來，像是 &lt;strong&gt;MongoDB Database&lt;/strong&gt; 與 &lt;strong&gt;MongoDB Collection&lt;/strong&gt;，因為個別的內容都很單純，只是概念上的描述。我一開始是想要做成一個檔案，叫做 &lt;strong&gt;MongoDB Database &amp;amp; Collection&lt;/strong&gt;，但很快我就發現了問題，當我整理筆記內容時，要連結到 MongoDB Database，可是我只有建立 MongoDB Database &amp;amp; Collection，變成我無法單純連結到這個檔案上面。&lt;/p&gt;
+&lt;p&gt;👉 連結文字與檔案名稱必須完全相符，這是缺點或是優點見仁見智，但正是因為這種限制，強制讓我拆解兩個檔案分別記錄兩個概念的內容，這也與卡片盒筆記法的概念相符。&lt;/p&gt;
+&lt;p&gt;所以，每一則記事的標題，都必須要完整且簡短，雖然看起來很矛盾，但我實際上用起來的感覺的確是如此。&lt;/p&gt;
+&lt;p&gt;例如，當我要新增筆記用來說明「MongoDB Database」，我必須新增&amp;quot;MongoDB Database&amp;quot;的檔案，而不是DataBase的關聯，因為Database是更大的集合，如果用掉了Database，那之後要說明Database這個概念的時候，就會衝突了。&lt;/p&gt;
+&lt;p&gt;一開始也許會有點不適應，可以在過程中先強迫自己跟著設計的思維，整理自己的想法，會陸陸續續感受的這種筆記概念所帶來的好處與優點。&lt;/p&gt;
+&lt;h2 id=&#34;最印象深刻的感受&#34;&gt;🧐最印象深刻的感受&lt;/h2&gt;
+&lt;p&gt;隨著筆記數量的增多，可以看到關聯圖這邊的點就會越多
+&lt;img src=&#34;../images/2023-02-14-00-01-58.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;這時候我們可以透過關鍵字去過濾出我們想要的內容，馬上可以看到有哪些概念是我們可以去開始查詢的
+&lt;img src=&#34;../images/2023-02-14-00-02-35.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;點著我們想要查詢的知識點，上游跟下游連結的知識也會被跟著亮起來。&lt;/p&gt;
+&lt;p&gt;馬上可以知道，建立 MongoDB Database，是從&lt;strong&gt;如何使用&lt;/strong&gt;的這個概念去出發的，然後如果還不清楚甚麼是 MongoDB Database，這時候就應該先去了解這個東西的定義。
+&lt;img src=&#34;../images/2023-02-14-00-02-54.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;由此可見，這種筆記方式相比於傳統筆記有兩個特點。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;搜尋知識點的方式：傳統筆記一定是從目錄的標題先開始尋找，然後看看有沒有想要的內容，但是內容內彼此關聯的地方，卻沒有辦法有效成呈現出來；相反地，Obsidian 這種筆記的方式，更像是腦袋靈光一閃的結果，想到某一個概念，相對應的廉潔與經驗就會想起來(記憶力好的話😭😭)。&lt;/li&gt;
+&lt;li&gt;強迫自己整理好每個單一概念的內容，先把零碎的觀念整理好，在逐漸把這先觀念的連結建立起來，比起一開始就要自己整理出有脈絡的內容，不僅更加快速，而且可以針對每個個小觀念做確認，幫助自己更加理解要學習的東西的全貌。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;延伸閱讀&#34;&gt;✍延伸閱讀&lt;/h2&gt;
+&lt;p&gt;一部淺顯易懂的 Obsidian 介紹影片，頻道內還有許多電腦軟體的使用技巧，有興趣的人可以去看看。
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Egj_DdGUIDI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;</content>
+    </item>
+    
+  </channel>
+</rss>
