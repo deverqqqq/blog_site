@@ -42,7 +42,7 @@
 &lt;h1 id=&#34;keepass介紹&#34;&gt;KeePass介紹&lt;/h1&gt;
 &lt;h2 id=&#34;密碼管理器原理&#34;&gt;密碼管理器原理&lt;/h2&gt;
 &lt;p&gt;這裡並不是針對 KeePass 的說明，而是大部分相似軟體的原理，實際上是如何實作的，還是要去看 Source 的實作才會知道。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../images/KeePassKeePass.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/KeePass.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;介紹&#34;&gt;介紹&lt;/h2&gt;
 &lt;p&gt;官網：https://keepass.info/&lt;/p&gt;
 &lt;blockquote&gt;
